@@ -1,0 +1,8 @@
+fraseSimples.txt
+alice29.txt
+cp.htm
+legendas1.txt
+Person.java
+progc.c
+watermark.cs
+world192.txt
